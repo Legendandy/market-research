@@ -1,0 +1,26 @@
+# Sentient Agent Framework
+sentient-agent-framework>=0.1.0
+
+# LangChain & LangGraph
+langchain>=0.1.0
+langgraph>=0.0.50
+langchain-openai>=0.0.5
+
+# Nebius LLM Provider
+langchain-nebius>=0.1.0
+
+# Web Scraping & Data Collection
+scrapegraph_py>=1.0.0
+requests>=2.31.0
+
+# Utilities
+python-dotenv>=1.0.0
+tenacity>=8.2.3
+pydantic>=2.0.0
+
+# Optional: For testing and development
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
